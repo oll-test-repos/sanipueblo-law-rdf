@@ -1,0 +1,76 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2021": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2021"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2021/026": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R21-026",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2021|Pueblo de San Ildefonso Council Res. No. SI-R21-026"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2021/027": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R21-027",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2021|Pueblo de San Ildefonso Council Res. No. SI-R21-027"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2021/028": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R21-028",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2021|Pueblo de San Ildefonso Council Res. No. SI-R21-028"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2021/029": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R21-029",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2021|Pueblo de San Ildefonso Council Res. No. SI-R21-029"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2021-11-24",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R21-026": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R21-027": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R21-028": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R21-029": [
+      "created"
+    ]
+  }
+}
