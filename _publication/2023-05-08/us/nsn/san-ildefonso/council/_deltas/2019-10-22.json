@@ -1,0 +1,84 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/code": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code"
+    },
+    "/us/nsn/san-ildefonso/council/code/18": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|18",
+      "ptag": "container",
+      "cite": "Title 18",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|18"
+    },
+    "/us/nsn/san-ildefonso/council/code/18.1": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|18.1",
+      "ptag": "container",
+      "cite": "Chapter 18.1",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|18|18.1"
+    },
+    "/us/nsn/san-ildefonso/council/code/18.1.6": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|18.1.6",
+      "ptag": "container",
+      "cite": "Part 18.1.6",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|18|18.1|18.1.6"
+    },
+    "/us/nsn/san-ildefonso/council/code/18.1.6.050": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|18.1.6.050",
+      "ptag": "section",
+      "cite": "Section 18.1.6.050",
+      "status": "Element changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|18|18.1|18.1.6|18.1.6.050"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/022": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-022",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-022"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2019-10-22",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-022": [
+      "created",
+      "effective"
+    ]
+  }
+}
