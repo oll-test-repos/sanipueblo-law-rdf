@@ -1,0 +1,65 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2018": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2018"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2018/029": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R18-029",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2018|Pueblo de San Ildefonso Council Res. No. SI-R18-029"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2018/030": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R18-030",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2018|Pueblo de San Ildefonso Council Res. No. SI-R18-030"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2018/031": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R18-031",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2018|Pueblo de San Ildefonso Council Res. No. SI-R18-031"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2018-12-14",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R18-029": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R18-030": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R18-031": [
+      "created"
+    ]
+  }
+}
