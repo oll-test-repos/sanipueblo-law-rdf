@@ -1,0 +1,43 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2017": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2017"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2017/029": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R17-029",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2017|Pueblo de San Ildefonso Council Res. No. SI-R17-029"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2017-09-20",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R17-029": [
+      "created"
+    ]
+  }
+}
