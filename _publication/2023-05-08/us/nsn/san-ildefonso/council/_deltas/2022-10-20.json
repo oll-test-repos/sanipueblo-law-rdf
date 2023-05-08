@@ -1,0 +1,65 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2022": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2022"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2022/014": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R22-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2022|Pueblo de San Ildefonso Council Res. No. SI-R22-014"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2022/017": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R22-017",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2022|Pueblo de San Ildefonso Council Res. No. SI-R22-017"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2022/018": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R22-018",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2022|Pueblo de San Ildefonso Council Res. No. SI-R22-018"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2022-10-20",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R22-014": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R22-017": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R22-018": [
+      "created"
+    ]
+  }
+}
