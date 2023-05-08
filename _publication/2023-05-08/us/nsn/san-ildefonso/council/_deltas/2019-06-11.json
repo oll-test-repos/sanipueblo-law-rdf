@@ -1,0 +1,43 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/code": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code"
+    },
+    "/us/nsn/san-ildefonso/council/code/5": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|5",
+      "ptag": "container",
+      "cite": "Title 5",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|5"
+    },
+    "/us/nsn/san-ildefonso/council/code/5.2": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|5.2",
+      "ptag": "container",
+      "cite": "Chapter 5.2",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|5|5.2"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2019-06-11",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-011": [
+      "effective"
+    ]
+  }
+}
