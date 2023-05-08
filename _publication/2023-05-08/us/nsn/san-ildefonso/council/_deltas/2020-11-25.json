@@ -1,0 +1,108 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/code": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code"
+    },
+    "/us/nsn/san-ildefonso/council/code/17": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|17",
+      "ptag": "container",
+      "cite": "Title 17",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|17"
+    },
+    "/us/nsn/san-ildefonso/council/code/17.2": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|17.2",
+      "ptag": "container",
+      "cite": "Chapter 17.2",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|17|17.2"
+    },
+    "/us/nsn/san-ildefonso/council/code/17.2.23": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|17.2.23",
+      "ptag": "container",
+      "cite": "Part 17.2.23",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|17|17.2|17.2.23"
+    },
+    "/us/nsn/san-ildefonso/council/code/17.2.24": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|17.2.24",
+      "ptag": "container",
+      "cite": "Part 17.2.24",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|17|17.2|17.2.24"
+    },
+    "/us/nsn/san-ildefonso/council/code/6": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6",
+      "ptag": "container",
+      "cite": "Title 6",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.5": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.5",
+      "ptag": "container",
+      "cite": "Chapter 6.5",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.5"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.5.20": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.5.20",
+      "ptag": "container",
+      "cite": "Part 6.5.20",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.5|6.5.20"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.5.20.050": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.5.20.050",
+      "ptag": "section",
+      "cite": "Section 6.5.20.050",
+      "status": "Element changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.5|6.5.20|6.5.20.050"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.5.27": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.5.27",
+      "ptag": "container",
+      "cite": "Part 6.5.27",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.5|6.5.27"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2020-11-25",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-022": [
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-023": [
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-024": [
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R20-025": [
+      "effective"
+    ]
+  }
+}
