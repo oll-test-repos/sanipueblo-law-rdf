@@ -1,0 +1,173 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/code": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code"
+    },
+    "/us/nsn/san-ildefonso/council/code/2": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|2",
+      "ptag": "container",
+      "cite": "Title 2",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|2"
+    },
+    "/us/nsn/san-ildefonso/council/code/2.3": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|2.3",
+      "ptag": "container",
+      "cite": "Chapter 2.3",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|2|2.3"
+    },
+    "/us/nsn/san-ildefonso/council/code/2.3.12": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|2.3.12",
+      "ptag": "container",
+      "cite": "Part 2.3.12",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|2|2.3|2.3.12"
+    },
+    "/us/nsn/san-ildefonso/council/code/6": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6",
+      "ptag": "container",
+      "cite": "Title 6",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.3": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3",
+      "ptag": "container",
+      "cite": "Chapter 6.3",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.3"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.3.18": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.3.18",
+      "ptag": "container",
+      "cite": "Part 6.3.18",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.3|6.3.18"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.5": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.5",
+      "ptag": "container",
+      "cite": "Chapter 6.5",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.5"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.5.24": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.5.24",
+      "ptag": "container",
+      "cite": "Part 6.5.24",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.5|6.5.24"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/012": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-012",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-012"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/013": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-013",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-013"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/014": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-014",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-014"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/015": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-015",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-015"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/016": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-016",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-016"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/017": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-017",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-017"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2019-06-21",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-012": [
+      "created",
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-013": [
+      "created",
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-014": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-015": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-016": [
+      "created"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-017": [
+      "created",
+      "effective"
+    ]
+  }
+}
