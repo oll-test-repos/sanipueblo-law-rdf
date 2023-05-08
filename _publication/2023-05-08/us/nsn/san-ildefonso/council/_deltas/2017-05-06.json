@@ -1,0 +1,87 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/code": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code"
+    },
+    "/us/nsn/san-ildefonso/council/code/11": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|11",
+      "ptag": "container",
+      "cite": "Title 11",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|11"
+    },
+    "/us/nsn/san-ildefonso/council/code/11.2": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|11.2",
+      "ptag": "container",
+      "cite": "Chapter 11.2",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|11|11.2"
+    },
+    "/us/nsn/san-ildefonso/council/code/11.2.20": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|11.2.20",
+      "ptag": "container",
+      "cite": "Part 11.2.20",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|11|11.2|11.2.20"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2017": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2017"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2017/009": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R17-009",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2017|Pueblo de San Ildefonso Council Res. No. SI-R17-009"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2017/010": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R17-010",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2017|Pueblo de San Ildefonso Council Res. No. SI-R17-010"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2017-05-06",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R17-010": [
+      "created",
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R17-009": [
+      "created"
+    ]
+  }
+}
