@@ -1,0 +1,70 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/code": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code"
+    },
+    "/us/nsn/san-ildefonso/council/code/11": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|11",
+      "ptag": "container",
+      "cite": "Title 11",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|11"
+    },
+    "/us/nsn/san-ildefonso/council/code/11.2": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|11.2",
+      "ptag": "container",
+      "cite": "Chapter 11.2",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|11|11.2"
+    },
+    "/us/nsn/san-ildefonso/council/code/11.2.25": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|11.2.25",
+      "ptag": "container",
+      "cite": "Part 11.2.25",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|11|11.2|11.2.25"
+    },
+    "/us/nsn/san-ildefonso/council/code/6": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6",
+      "ptag": "container",
+      "cite": "Title 6",
+      "status": "Subelements changed",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6"
+    },
+    "/us/nsn/san-ildefonso/council/code/6.9": {
+      "doc": "Pueblo de San Ildefonso Code",
+      "path": "|6.9",
+      "ptag": "container",
+      "cite": "Chapter 6.9",
+      "status": "Element added",
+      "searchpath": "library|Pueblo de San Ildefonso Code|6|6.9"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2019-12-23",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-025": [
+      "effective"
+    ],
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-026": [
+      "effective"
+    ]
+  }
+}
