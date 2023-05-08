@@ -1,0 +1,43 @@
+{
+  "data": {
+    "/": {
+      "doc": null,
+      "path": null,
+      "ptag": "library",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019": {
+      "doc": null,
+      "path": null,
+      "ptag": "collection",
+      "cite": null,
+      "status": "Subelements changed",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019"
+    },
+    "/us/nsn/san-ildefonso/council/resolutions/2019/006": {
+      "doc": "Pueblo de San Ildefonso Council Res. No. SI-R19-006",
+      "path": "",
+      "ptag": "document",
+      "cite": "",
+      "status": "Element added",
+      "searchpath": "library|us/nsn/san-ildefonso/council/resolutions|2019|Pueblo de San Ildefonso Council Res. No. SI-R19-006"
+    }
+  },
+  "publication_name": "2023-05-08",
+  "codified_date": "2019-02-27",
+  "reasons": {
+    "Pueblo de San Ildefonso Council Res. No. SI-R19-006": [
+      "created"
+    ]
+  }
+}
