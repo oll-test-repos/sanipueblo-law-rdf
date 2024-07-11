@@ -35,8 +35,150 @@ Title 25 TRAFFIC(§§ 25.1.1.010 – 25.1.11.110)
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2023-05-08/2018-10-22]: Pueblo de San Ildefonso Code</rdfs:label>
+    <oll:codifiedDate>2018-10-22</oll:codifiedDate>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2018-10-20</oll:dateCurrentThrough>
-  <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08"/>
+    <oll:docId>Pueblo de San Ildefonso Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/_changes"/>
+    <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/us/nsn/san-ildefonso/council/resolutions/2018/026"/>
-    </rdf:Description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6">
+    <oll:cite xml:lang="en">Part 10.1.6</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.010">
+    <oll:cite xml:lang="en">Section 10.1.6.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.020">
+    <oll:cite xml:lang="en">Section 10.1.6.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.030">
+    <oll:cite xml:lang="en">Section 10.1.6.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.040">
+    <oll:cite xml:lang="en">Section 10.1.6.040</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.040|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.040</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.050">
+    <oll:cite xml:lang="en">Section 10.1.6.050</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.050|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.050</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.060">
+    <oll:cite xml:lang="en">Section 10.1.6.060</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.060|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.060</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.070">
+    <oll:cite xml:lang="en">Section 10.1.6.070</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.070|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.070</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.080">
+    <oll:cite xml:lang="en">Section 10.1.6.080</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.080|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.080</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.090">
+    <oll:cite xml:lang="en">Section 10.1.6.090</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|10|10.1|10.1.6|10.1.6.090|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/10.1.6.090</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.15">
+    <oll:cite xml:lang="en">Part 17.2.15</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.15|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.15</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.15.010">
+    <oll:cite xml:lang="en">Section 17.2.15.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.15|17.2.15.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.15.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.15.020">
+    <oll:cite xml:lang="en">Section 17.2.15.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.15|17.2.15.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.15.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16">
+    <oll:cite xml:lang="en">Part 17.2.16</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.16|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.16</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16.010">
+    <oll:cite xml:lang="en">Section 17.2.16.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.16|17.2.16.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.16.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16.020">
+    <oll:cite xml:lang="en">Section 17.2.16.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.16|17.2.16.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.16.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16.030">
+    <oll:cite xml:lang="en">Section 17.2.16.030</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.16|17.2.16.030|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.16.030</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/_changes">
+    <rdf:_10 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.090"/>
+    <rdf:_11 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.15"/>
+    <rdf:_12 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.15.010"/>
+    <rdf:_13 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.15.020"/>
+    <rdf:_14 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16"/>
+    <rdf:_15 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16.010"/>
+    <rdf:_16 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16.020"/>
+    <rdf:_17 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/17.2.16.030"/>
+    <rdf:_1 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6"/>
+    <rdf:_2 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.010"/>
+    <rdf:_3 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.020"/>
+    <rdf:_4 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.030"/>
+    <rdf:_5 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.040"/>
+    <rdf:_6 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.050"/>
+    <rdf:_7 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.060"/>
+    <rdf:_8 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.070"/>
+    <rdf:_9 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2018-10-22/us/nsn/san-ildefonso/council/code/10.1.6.080"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
 </rdf:RDF>

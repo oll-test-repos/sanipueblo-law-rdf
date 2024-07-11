@@ -73,7 +73,7 @@
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/006"/>
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/007"/>
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/013"/>
-  <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/015"/>
+    <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/015"/>
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/016"/>
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/017"/>
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2014/020"/>
@@ -132,5 +132,5 @@
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2017/008"/>
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2017/012"/>
     <oll:hasDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-04-19/us/nsn/san-ildefonso/council/resolutions/2017/015"/>
-    </rdf:Description>
+  </rdf:Description>
 </rdf:RDF>

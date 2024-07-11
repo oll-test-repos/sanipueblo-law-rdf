@@ -4,7 +4,7 @@
     <dcterms:creator xml:lang="en">Pueblo de San Ildefonso</dcterms:creator>
     <dcterms:isVersionOf rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/us/nsn/san-ildefonso/council/code"/>
     <dcterms:rights xml:lang="en">Public Domain</dcterms:rights>
-  <dcterms:tableOfContents>
+    <dcterms:tableOfContents>
 Title 1 GENERAL PROVISIONS(§§ 1.1.1.010 – 1.3.4.050)
 Title 2 GOVERNOR(§§ 2.1.1.010 – 2.4.1.140)
 Title 3 COUNCIL(§§ 3.1.1.010 – 3.3.1.040)
@@ -35,8 +35,38 @@ Title 25 TRAFFIC(§§ 25.1.1.010 – 25.1.11.110)
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Code"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#DocumentVersion"/>
     <rdfs:label xml:lang="en">[2023-05-08/2017-09-08]: Pueblo de San Ildefonso Code</rdfs:label>
+    <oll:codifiedDate>2017-09-08</oll:codifiedDate>
     <oll:dateCurrentThrough rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2017-09-08</oll:dateCurrentThrough>
+    <oll:docId>Pueblo de San Ildefonso Code</oll:docId>
+    <oll:hasChanges rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/_changes"/>
     <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08"/>
     <oll:lastCodifiedDocument rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/us/nsn/san-ildefonso/council/resolutions/2017/028"/>
-    </rdf:Description>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/17.2.8">
+    <oll:cite xml:lang="en">Part 17.2.8</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.8|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">container</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.8</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/17.2.8.010">
+    <oll:cite xml:lang="en">Section 17.2.8.010</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.8|17.2.8.010|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.8.010</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/17.2.8.020">
+    <oll:cite xml:lang="en">Section 17.2.8.020</oll:cite>
+    <oll:documentMaterializedPath xml:lang="en">Pueblo de San Ildefonso Code|17|17.2|17.2.8|17.2.8.020|</oll:documentMaterializedPath>
+    <oll:ptag xml:lang="en">section</oll:ptag>
+    <oll:status xml:lang="en">Element added</oll:status>
+    <oll:url xml:lang="en">/us/nsn/san-ildefonso/council/code/17.2.8.020</oll:url>
+  </rdf:Description>
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/_changes">
+    <rdf:_1 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/17.2.8"/>
+    <rdf:_2 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/17.2.8.010"/>
+    <rdf:_3 rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08/_date/2017-09-08/us/nsn/san-ildefonso/council/code/17.2.8.020"/>
+    <rdf:type rdf:resource="http://www.w3.org/1999/02/22-rdf-syntax-ns#Bag"/>
+  </rdf:Description>
 </rdf:RDF>

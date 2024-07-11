@@ -1,0 +1,9 @@
+<rdf:RDF xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+  <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08">
+    <dcterms:available rdf:datatype="http://www.w3.org/2001/XMLSchema#date">2023-05-08</dcterms:available>
+    <dcterms:creator xml:lang="en">Pueblo de San Ildefonso</dcterms:creator>
+    <dcterms:isPartOf rdf:resource="https://law.sanipueblo.org/"/>
+    <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Publication"/>
+    <rdfs:label xml:lang="en">Publication 2023-05-08</rdfs:label>
+  </rdf:Description>
+</rdf:RDF>

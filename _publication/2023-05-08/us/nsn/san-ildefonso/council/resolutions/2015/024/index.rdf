@@ -2,6 +2,6 @@
   <rdf:Description rdf:about="https://law.sanipueblo.org/_publication/2023-05-08/us/nsn/san-ildefonso/council/resolutions/2015/024">
     <dcterms:isVersionOf rdf:resource="https://law.sanipueblo.org/us/nsn/san-ildefonso/council/resolutions/2015/024"/>
     <rdf:type rdf:resource="https://open.law/us/ngo/oll/_ontology/v0.1/ontology.owl#Resolution"/>
-  <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08"/>
-    </rdf:Description>
+    <oll:isPartOfPublication rdf:resource="https://law.sanipueblo.org/_publication/2023-05-08"/>
+  </rdf:Description>
 </rdf:RDF>
